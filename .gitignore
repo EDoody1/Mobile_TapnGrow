@@ -78,3 +78,6 @@ Plugins/*/Intermediate/*
 # Cache files for the editor to use
 DerivedDataCache/*
 
+Mobile_TapGrower/Intermediate/Android/
+Mobile_TapGrower/Saved/StagedBuilds/
+Mobile_TapGrower/Saved/
